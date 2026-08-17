@@ -1,5 +1,0 @@
-Hello. I am OwnAI, a small language model.
-This is a demonstration corpus for learning language.
-The model learns patterns in text by predicting the next character.
-Learning requires examples, evaluation, and repeated training.
-A good training system checks data before using it.
